@@ -1,0 +1,2 @@
+def dectobin(a)
+ re    
