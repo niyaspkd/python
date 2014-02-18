@@ -6,6 +6,6 @@ n = 1
 
 for i in xrange(1, 21):
 
-n = lcm(n, i)
+    n = lcm(n, i)
 
 print n
