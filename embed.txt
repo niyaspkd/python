@@ -1,0 +1,4 @@
+a)cross compiler
+b)gcc:native,cross
+x86-->machine code runs on samem
+ln -s for linking a folder with many names

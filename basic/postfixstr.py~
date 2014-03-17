@@ -10,7 +10,7 @@ def postfix(a):
   elif x=='*':
    e=c.pop()
    f=c.pop()
-   c.append(e*f)
+   c.append(e+f)
   else:
     x=int(x) 
     c.append(x)

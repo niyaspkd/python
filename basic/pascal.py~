@@ -1,0 +1,7 @@
+def sumFirstTwo(lis):
+ outlis = [lis[0]]
+ for i,j in enumerate(range(len(lis))): 
+  a = sum(lis[i:j+2]) 
+  outlis.append(a)
+ return outlis
+print sumFirstTwo([1,4,6,6,1])
